@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serpiente", "Serpiente\Serpiente.csproj", "{5160593D-05F5-4EC4-853A-8B44C7DDD2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas", "Pruebas\Pruebas.csproj", "{F92FFE65-217B-41E9-8F0D-A5A0B3983E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5160593D-05F5-4EC4-853A-8B44C7DDD2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5160593D-05F5-4EC4-853A-8B44C7DDD2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5160593D-05F5-4EC4-853A-8B44C7DDD2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5160593D-05F5-4EC4-853A-8B44C7DDD2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92FFE65-217B-41E9-8F0D-A5A0B3983E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92FFE65-217B-41E9-8F0D-A5A0B3983E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92FFE65-217B-41E9-8F0D-A5A0B3983E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92FFE65-217B-41E9-8F0D-A5A0B3983E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307DF5E5-52E7-4568-9651-4260E6FD3556}
+	EndGlobalSection
+EndGlobal
