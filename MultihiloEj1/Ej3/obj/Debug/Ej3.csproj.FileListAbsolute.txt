@@ -1,0 +1,7 @@
+C:\Users\muxor\OneDrive\2º DAM\Desarrollo de Interfaces\source\repos\MultihiloEj1\Ej3\bin\Debug\Ej3.exe.config
+C:\Users\muxor\OneDrive\2º DAM\Desarrollo de Interfaces\source\repos\MultihiloEj1\Ej3\bin\Debug\Ej3.exe
+C:\Users\muxor\OneDrive\2º DAM\Desarrollo de Interfaces\source\repos\MultihiloEj1\Ej3\bin\Debug\Ej3.pdb
+C:\Users\muxor\OneDrive\2º DAM\Desarrollo de Interfaces\source\repos\MultihiloEj1\Ej3\obj\Debug\Ej3.csproj.AssemblyReference.cache
+C:\Users\muxor\OneDrive\2º DAM\Desarrollo de Interfaces\source\repos\MultihiloEj1\Ej3\obj\Debug\Ej3.csproj.CoreCompileInputs.cache
+C:\Users\muxor\OneDrive\2º DAM\Desarrollo de Interfaces\source\repos\MultihiloEj1\Ej3\obj\Debug\Ej3.exe
+C:\Users\muxor\OneDrive\2º DAM\Desarrollo de Interfaces\source\repos\MultihiloEj1\Ej3\obj\Debug\Ej3.pdb
